@@ -12,6 +12,7 @@ license = {text = "MIT"}
 
 [project.scripts]
 hi-nicou11 = "hi_nicou11.hello:hi"
+	    #패키지 . 파일이름 : 함수이름
 
 [tool.pdm]
 distribution = true
